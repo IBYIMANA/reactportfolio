@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <div > 
         <h2 className='text-4xl font-extrabold text-center text-white hover:text-blue-300'>MY Skills</h2>
-    <div className='grid grid-cols-2 grid-rows-2 gap-4 mt-10 ml-60'>
+        <div className='grid grid-cols-2 grid-rows-2 gap-4 mt-10 ml-60'>
         <div class="w-2/3 text-black bg-gray-200 rounded-2xl ml-14 hover:bg-orange-300">
         <img src="images/htm.png" className='w-16 ml-8'/>
           <p class="ml-8 text-black">

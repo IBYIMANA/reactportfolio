@@ -17,7 +17,7 @@ function About() {
                 </p> 
                 
                 <a href="images/fillette cv.docx">
-                <button className='text-white bg-blue-500 w-28 h-11 ml-28 hover:bg-red-600 mb-28'> Download Cv</button>
+                <button className='text-white bg-green-500 w-28 h-11 ml-28 hover:bg-black mb-28'>RESUME </button>
                 </a>
         </div>
     );
